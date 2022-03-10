@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm zyh-hehe.
+ - I'm an undergraduate student at the School of Computer Science at Beijing University of Posts and Telecommunications.
+ - I'm major in Software Engineering.
+ - I’m currently learning operating system and database theory.
+ - Sometimes I study hard, but at the other times I indulge myself, such as playing Heartstone, Dyson Sphere Program or just sleeping.
+ - I'm planning to study machine learning, Python crawler technology and Java front-end and back-end development(SpringBoot+Vue).
+ - Language mainly used: C++, Java and Python.
+ - How to reach me: zyh1809@bupt.edu.cn (email) or https://t.me/zyh_hehe (telegram) 
 
 <!--
 **zyh-hehe/zyh-hehe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
