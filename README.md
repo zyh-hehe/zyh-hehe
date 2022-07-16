@@ -5,6 +5,7 @@
  - Sometimes I study hard, but at the other times I indulge myself, such as playing Heartstone, Red Dead Redemption 2 or just sleeping.
  - I'm planning to study Deep learning, Python crawler technology and Java front-end and back-end development(SpringBoot,Vue and etc.).
  - Language mainly used: C++, Java and Python.
+ - Actually, I haven't eaten Papa John's pizza.
  - How to reach me: yuehanzyh@gmail.com (email) or https://t.me/zyh_hehe (telegram) 
 
 <!--
