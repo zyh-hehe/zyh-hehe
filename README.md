@@ -2,8 +2,8 @@
  - I'm an undergraduate student at the School of Computer Science at Beijing University of Posts and Telecommunications.
  - I'm major in Software Engineering.
  - I choose big data software as my major discipline and am about to take courses in cloud computing technology and distributed computing.
- - Sometimes I study hard, but at the other times I indulge myself, such as playing Elden Ring, Red Dead Redemption 2 or just sleeping.
- - I'm planning to study Distributed Computing, Deep Learning and Java front-end and back-end development(SpringBoot,Vue and etc.).
+ - Sometimes I study hard, but at the other times I indulge myself, such as playing Elden Ring, God of War or just sleeping.
+ - I'm planning to study Distributed Computing, Deep Learning and Database Principle.
  - Language mainly used: C++, Java and Go.
  - Actually, I have eaten Papa John's pizza only once.
  - How to reach me: yuehanzyh@gmail.com (email) or https://t.me/zyh_hehe (telegram) 
