@@ -2,7 +2,7 @@
  - I'm an undergraduate student at the School of Computer Science at Beijing University of Posts and Telecommunications.
  - I'm major in Software Engineering.
  - I choose big data software as my major discipline and am about to take courses in cloud computing technology and distributed computing.
- - Sometimes I study hard, but at the other times I indulge myself, such as playing Elden Ring, Sekiro：Shadows Die Twice（The plot of Hidetaka Miyazaki） or just sleeping.
+ - Sometimes I study hard, but at the other times I indulge myself, such as playing Elden Ring, Sekiro：Shadows Die Twice（plot of Hidetaka Miyazaki） or just sleeping.
  - I'm planning to study Distributed Computing, Deep Learning and Database Principle.
  - Language mainly used: C++, Java and Go.
  - Actually, I have eaten Papa John's pizza only once.
