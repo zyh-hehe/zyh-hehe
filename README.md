@@ -1,11 +1,10 @@
 ### Hi there 👋 I'm zyh-hehe.
- - I'm an undergraduate student at the School of Computer Science at Beijing University of Posts and Telecommunications.
- - I'm major in Software Engineering.
- - I choose big data software as my major discipline and am about to take courses in cloud computing technology and distributed computing.
- - Sometimes I study hard, but at the other times I indulge myself, such as playing Elden Ring, Sekiro：Shadows Die Twice（plot of Hidetaka Miyazaki） or just sleeping.
- - I'm planning to study Distributed Computing, Deep Learning and Database Principle.
+ - I am an undergraduate student at the School of Computer Science, Beijing University of Posts and Telecommunications, and I am going to pursue my master's degree here.
+ - My main research direction is SDN and network policy verification, and I am also interested in distributed systems and data center networks.
  - Language mainly used: C++, Java and Go.
- - Actually, I have eaten Papa John's pizza only once.
+ - Sometimes I study hard, but at the other times I indulge myself, such as playing games on my PlayStation5 or just sleeping.
+ - Recent films and TV shows of interest: Yes Minister/Yes Prime Minister (BBC)、Pulp Fiction (Quentin Tarantino), and many more.
+ - Actually, I have eaten Papa John's pizza only once. Domino is a much better choice!
  - How to reach me: yuehanzyh@gmail.com (email) or https://t.me/zyh_hehe (telegram) 
 
 <!--
